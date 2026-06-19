@@ -1,0 +1,19 @@
+{
+  "site_title": "精选影片合集-高分电影排行榜-高清视频在线观看",
+  "parsed_movie_count": 2000,
+  "category_counts": {
+    "drama": 225,
+    "action-crime": 220,
+    "comedy": 203,
+    "romance-healing": 227,
+    "sci-fi-fantasy": 194,
+    "suspense-thriller": 226,
+    "horror-supernatural": 119,
+    "history-war": 161,
+    "animation-music": 120,
+    "series-variety": 305
+  },
+  "detail_pages": 2000,
+  "video_source_count": 20,
+  "image_reference_rule": "影片封面与 Hero 均引用站点顶级目录 1.jpg 到 150.jpg，按影片序号循环匹配。"
+}
